@@ -1,1 +1,1 @@
-# HTML-and-CSS-Projects
+# HTML-and-CSS-Projects this repository contains all of my coding projects, exercises,and assignments for my web development course. It serves as a portfolio of my progress learning semantic HTML structure and CSS styling.
